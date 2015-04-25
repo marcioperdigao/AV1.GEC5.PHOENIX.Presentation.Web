@@ -1,0 +1,28 @@
+body {    
+    background-color: black; font-family: Verdana, sans-serif; font-size:0.8em;
+    }
+header, nav, fieldset, section, article, footer {    
+    display: block; border:1px solid white; margin:5px; padding:8px;
+    }    
+header figure{ 
+    position: absolute;    
+    }
+nav ul {
+    margin:0; padding:0;
+    }
+a:visited {
+    color: darkturquoise;
+    text-decoration: none;
+    }
+a:hover {    
+    color: aqua;
+    }   
+section legend {
+    color: magenta; margin: 1px; padding: 1px;
+    }
+article p, li{
+    color: darkviolet;
+    }
+footer p{
+    color: aqua;
+    }
